@@ -8,4 +8,4 @@
 ProfBrunoEmidio/ProfBrunoEmidio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-#0987DA
+`#0982BC` `#ff0403'
