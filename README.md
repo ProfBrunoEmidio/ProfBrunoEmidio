@@ -1,5 +1,4 @@
-<img loading="lazy" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://blogdoprofessorbruno.blogspot.com/)" width="50" height="50"/>
-
+<img align="right" width="50" height="50" src="(https://1.bp.blogspot.com/-ldG3Q6DUHRM/VhXYjCTJjrI/AAAAAAAAB2s/UC2AkGT6xsQ/s1600-r/BANNER_BLOG_BRUNO.png)">
 - 👋 **Olá sou o Professor Bruno Lima Emidio** 
 - 👀 _Me interesso por Geografia, Sensoriamento Remoto, Geologia, Meteorologia, Cartografia e Robótica._
 - 🌱 Estou cursando Pedagogia e os cursos da alura (🤮)
