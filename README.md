@@ -1,4 +1,4 @@
-`#0982BC` 
+<img loading="lazy" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://blogdoprofessorbruno.blogspot.com/)" width="50" height="50"/>
 
 - 👋 **Olá sou o Professor Bruno Lima Emidio** 
 - 👀 _Me interesso por Geografia, Sensoriamento Remoto, Geologia, Meteorologia, Cartografia e Robótica._
