@@ -1,4 +1,4 @@
-<img align="center" width="500" height="500" src="https://1.bp.blogspot.com/-ldG3Q6DUHRM/VhXYjCTJjrI/AAAAAAAAB2s/UC2AkGT6xsQ/s1600-r/BANNER_BLOG_BRUNO.png">
+<img align="center" width="100" height="100" src="https://1.bp.blogspot.com/-ldG3Q6DUHRM/VhXYjCTJjrI/AAAAAAAAB2s/UC2AkGT6xsQ/s1600-r/BANNER_BLOG_BRUNO.png">
 
 - 👋 **Olá sou o Professor Bruno Lima Emidio** 
 - 👀 _Me interesso por Geografia, Sensoriamento Remoto, Geologia, Meteorologia, Cartografia e Robótica._
