@@ -1,4 +1,4 @@
-- 👋 Olá sou o Professor Bruno Lima Emidio 
+- 👋 ** Olá sou o Professor Bruno Lima Emidio ** 
 - 👀 Me interesso por Geografia, Sensoriamento Remoto, Geologia, Meteorologia, Cartografia e Robótica.
 - 🌱 Estou cursando Pedagogia e os cursos da alura (🤮)
 - 💞️ Estou namorando e em breve noivo.
